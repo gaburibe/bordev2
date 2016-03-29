@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-	<title>Borde Político</title>
+	<title>Borde Político v2</title>
 	<link rel="stylesheet" href="bower_components/angular-material/angular-material.min.css">
 	<link rel="stylesheet" href="bower_components/nvd3/build/nv.d3.css">
 	<link rel="stylesheet" href="bower_components/angular-chart.js/dist/angular-chart.css">
